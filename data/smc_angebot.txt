@@ -1,0 +1,212 @@
+KI senkt Zustimmung zu Verschwörungstheorien
+
+
+künstliche Intelligenz
+57
+
+Desinformation
+34
+
+Sprachmodelle
+17
+
+Verschwörungstheorien
+4
+Gespräche mit KI-Chatbot reduzieren in Studie effektiv verschwörungstheoretische Überzeugungen
+
+demnach könnten individuell angepasste Evidenz und gute Argumente besser als bislang gedacht gegen Verschwörungstheorien wirken
+
+Forschende finden Ergebnisse weitestgehend überzeugend, halten direkte Anwendung in der Praxis für herausfordernd
+
+Anlass
+
+Statements
+
+Interessenkonflikte
+
+Quellen
+
+Anlass
+Kurze, faktenbasierte Gespräche mit einem generativen KI-Chatbot könnten die Zustimmung zu Verschwörungstheorien deutlich und nachhaltig senken. Zu diesem Ergebnis kommen US-amerikanische Forscher in einer Studie, die in der Fachzeitschrift „Science“ erschienen ist (siehe Primärquelle). Bis zu dieser Studie habe es wenig Belege gegeben, dass die Zustimmung zu Verschwörungstheorien durch gegenteilige Evidenz effektiv verringert werden könne, so die Autoren. Stattdessen seien verschwörungstheoretische Überzeugungen oft mit zugrunde liegenden psychologischen Bedürfnissen – etwa nach Stabilität und Sicherheit – erklärt worden. Im Zusammenhang damit seien sie für resilient gegenüber widersprechenden Fakten gehalten worden – was die Studienergebnisse widerlegen würden.
+
+Die insgesamt über 2000 Teilnehmenden der Studie schilderten dem KI-Chatbot ChatGPT-4 Turbo zunächst eine Verschwörungstheorie und die angeblichen Beweise dafür. Zudem gaben die Teilnehmenden auf einer Skala von 0 bis 100 Prozent an, wie sicher sie sich waren, dass die Verschwörungstheorie wahr sei. Anschließend wurden die Teilnehmenden randomisiert in eine Test- und eine Kontrollgruppe aufgeteilt. Die Testgruppe führte eine kurze Diskussion mit dem Chatbot zur Faktenlage rund um die geschilderte Theorie. Der Bot hatte die Aufgabe, sein Gegenüber von der Verschwörungstheorie abzubringen. Die Konversation bestand aus drei Antworten des Chatbots – jeweils auf die erste Schilderung der Verschwörungstheorie und auf zwei weitere Reaktionen der Teilnehmenden und dauerte im Schnitt unter zehn Minuten. Die Kontrollgruppe diskutierte ein von der Theorie unabhängiges Thema mit dem Chatbot. Am Ende gaben beide Gruppen erneut an, wie überzeugt sie von der Verschwörungstheorie waren.
+
+Bei der Testgruppe sanken die Überzeugungen, mit welcher Sicherheit die Verschwörungstheorie wahr sei, um etwa 17 Prozentpunkte stärker als in der Kontrollgruppe. Der Unterschied war statistisch signifikant. Bei etwa einem Viertel der Teilnehmenden sank die verschwörungstheoretische Überzeugung so weit, dass sie sich weniger als 50 Prozent sicher waren, dass sie wahr sei. In einer Nachbefragung zwei Monate später konnte der Effekt weiterhin gemessen werden. Eine zweite Version der Befragung, mit der die Robustheit der Ergebnisse geprüft wurde, kam zu einem ähnlich starken Effekt.
+
+Welchen Beitrag die aktuelle Studie zur Frage liefert, inwiefern Menschen, die Verschwörungstheorien anhängen, durch Fakten überzeugt werden können und ob KI-Chatbots dabei eine Rolle spielen könnten, haben unabhängige Expertinnen und Experten für das SMC eingeschätzt.
+
+zusammenklappen
+Statements
+Prof. Dr. Stefan Feuerriegel
+Leiter des Instituts für Künstliche Intelligenz (KI) im Management, Ludwig-Maximilians-Universität München (LMU)
+
+Bedeutung der Studie
+
+„Die Ergebnisse sind sehr spannend. In der Wissenschaft gibt es bisher einen großen Disput darüber, wie man Menschen mit Glaube an Verschwörungstheorien erfolgreich zum Umdenken bringen kann. Reicht es, einfach nur die Fakten auf den Tisch zu legen? Bisher war häufig der Grundsatz: Fakten helfen wenig, sondern effektiv sind vor allem Empathie und Emotion. In der aktuellen Studie wird aber gezeigt, dass Fakten in einem längeren Gespräch doch helfen.“
+
+„In der Studie geht es weniger darum, ob der Ansatz für die Praxis anwendbar ist. Vielmehr sind andere Ergebnisse spannend: Dass in einer großangelegten Studie durch Diskussion und Richtigstellung ein falscher Glaube an Verschwörungstheorien korrigiert werden kann. Das war bisher nicht klar – und selbst wenn, ließe sich das ohne automatisierte Systeme wie KI nur in einem ganz kleinen Kreis von ausgewählten Studien-Teilnehmenden zeigen.“
+
+Mechanismus der Intervention
+
+Auf die Frage, was man aus der Studie darüber lernt, wie genau sich Menschen, die von Verschwörungstheorien überzeugt sind, durch korrekte Fakten überzeugen lassen: 
+„Leider nicht viel. Der Mechanismus hinter einer guten Überzeugungsarbeit bleibt unbekannt. Das ist häufig das Problem mit Systemen wie ChatGPT: Wir verstehen bisher zu wenig, wie Menschen auf diese Systeme reagieren. Liegt es daran, dass ChatGPT menschliche Züge in Kommunikation hat? Liegt es an der teilweise auch empathischen Sprache von ChatGPT? Oder liegt es letztlich doch an den Fakten?“
+
+Anwendung  in  der Praxis
+
+Auf die Frage, inwiefern Menschen, die von einer Verschwörungstheorie überzeugt sind, in der Praxis dafür offen wären, mit einem KI-Chatbot zu diskutieren:
+„Das ist vermutlich eher unrealistisch. Aber Millionen Menschen nutzen tagtäglich ChatGPT und ChatGPT neigt auch dazu, falsche Fakten zu korrigieren. Insoweit könnte ein System wie ChatGPT auch unbewusst helfen, Fakten richtig zu stellen.“
+
+Prof. Dr. Roland Imhoff
+Professor für Sozial- und Rechtspsychologie am Psychologischen Institut, Johannes Gutenberg-Universität Mainz
+
+Bedeutung der Studie
+
+„Das ist die bislang beste Evidenz, die wir haben, dass es tatsächlich möglich ist, die Zustimmung zu Verschwörungstheorien zu reduzieren. Das gab es bislang nicht. Gerade im Lichte der hohen Qualität der Studiendurchführung gibt es erst einmal keinen Anlass, an diesem Grundbefund zu zweifeln. Interessanter ist für mich eher die Frage, warum die TeilnehmerInnen so bereitwillig ihre Zustimmung reduziert haben. Folgende Limitation sollte im Enthusiasmus über die Befunde nicht verloren gehen: Obwohl es eine Reduktion der Überzeugung für fast alle TeilnehmerInnen gab, geben auch nach der Intervention knapp 75 Prozent an, die Verschwörungstheorie eher für wahr zu halten – nur eben mit einer weniger extremen Überzeugung. Das heißt, sie gaben auf einer Skala von 0 bis 100 Prozent an, mindestens zu 50 Prozent sicher zu sein, die Verschwörungstheorie sei wahr. Das ist schon ein großer Effekt, bloß wirklich vom Glauben abfallen – also weniger als 50 Prozent sicher zu sein – tut nur ein knappes Viertel.“
+
+Mechanismus der Intervention
+
+„Die Frage danach, wie genau die KI VerschwörungstheoretikerInnen überzeugt, beantworten die Autoren der Studie mit dem Verweis auf die einfach besseren und stichhaltigeren Argumente, die die KI im Vergleich zu menschlichen GesprächspartnerInnen liefert. Verschwörungsgläubige treffen quasi erstmal auf einen Gesprächspartner, der noch mehr über ihre Lieblingsverschwörungstheorie und die Hintergründe weiß als sie selbst. Das ist nicht unplausibel. Aber es lässt meines Erachtens die interessante Frage außer Acht, warum die TeilnehmerInnen der KI vertrauen. In Mensch-zu-Mensch-Diskussionen ist es ja nicht immer so, dass das Gegenüber argumentativ unterlegen ist, sondern ihm mitunter auch unterstellt wird, entweder selbst Teil der Verschwörung zu sein oder von den Mächtigen dumm gemacht worden zu sein – Stichwort Lügenpresse und Schlafschafe. Das scheint der KI nicht unterstellt zu werden und das ist für mich das Verblüffende. Zusatzanalysen der Studie zeigen auch, dass die Reduktion umso größer ist, je mehr die ProbandInnen der KI vertrauen.“
+
+Anwendung in der Praxis
+
+Auf die Frage, inwiefern Menschen, die von einer Verschwörungstheorie überzeugt sind, in der Praxis dafür offen wären, mit einem KI-Chatbot zu diskutieren:
+„Das ist eine zentrale Frage. Bei aller Repräsentativität für Alter, Geschlecht und andere demographische Variablen, bleiben die StudienteilnehmerInnen in einer Hinsicht immer besonders: Sie gehören zu der Gruppe von Menschen, die an Studien teilnehmen und sich damit auch den Regeln der Teilnahme an Studien unterwerfen – in diesem Fall, in drei Runden ein Gespräch mit einer KI zu führen. Diese Bereitschaft ist aber vermutlich nicht unabhängig vom politischen Standpunkt und Verschwörungsglauben. Wir erinnern uns an 2016, als die Umfrageinstitute die Unterstützung für Donald Trump massiv unterschätzt haben, vermutlich weil ein bestimmter Teil der Basis von Trump die Teilnahme an Umfrage verweigert. Das Gleiche kann auch auf Verschwörungsgläubige zutreffen – sich mit einem Chatbot hinzusetzen und ihm ‚zuzuhören‘ verlangt erst einmal eine Bereitschaft, sich vom Gegenteil seiner Meinung überzeugen zu lassen.“
+
+„Ich denke, der Flaschenhals wird sein, die Menschen ins Gespräch zu bekommen. Die Autoren erkennen das an und schlagen vor, dass KI-Modelle eigenständig falschen Behauptungen in Sozialen Medien faktenbasierte Argumente entgegensetzen sollen. Wie realistisch ist das? Ich bin mir unsicher, weil man damit implizit eine Instanz akzeptiert, die entscheiden kann, was wahr und was falsch ist. Durch ihre technische und algorithmische Überlegenheit ersetzt die KI damit soziale Aushandlungsprozesse. Das klingt für die einen nach einer schönen, neuen, endlich nicht mehr ‚postfaktischen‘ Welt, für andere nach einem dystopischen Wahrheitsministerium. In der Realität wird es aber allein dadurch komplexer, dass nicht alle TeilnehmerInnen am Diskurs authentisch fehlgeleitete Gläubige sind, die eigentlich nur die Wahrheit wissen wollen. Ein großer Teil von verschwörungstheoretischen Inhalten wird von Akteuren gestreut, die ganz andere Interessen von politischer Propaganda bis hin zur politischen Destabilisierung haben und es wäre naiv anzunehmen, dass nicht auch von der Seite das Potenzial von KI genutzt werden wird.“
+
+Dr. Fabian Hutmacher
+Wissenschaftlicher Mitarbeiter am Lehrstuhl für Kommunikationspsychologie und Neue Medien, Julius-Maximilians-Universität Würzburg
+
+Bedeutung der Studie
+
+„Die Idee, Fake News und Verschwörungstheorien etwas entgegenzusetzen, indem man überzeugende Gegenargumente präsentiert, ist nicht neu. In der Forschung wird das auch als ‚Debunking‘ bezeichnet. Neu ist dagegen die Idee, die Auswahl der präsentierten Gegenargumente – unter Zuhilfenahme eines KI-Chatbots – an die konkreten Überzeugungen der jeweiligen Einzelperson anzupassen. Tatsächlich scheint diese Strategie zu einer signifikanten und längerfristig anhaltenden Reduktion verschwörungstheoretischer Überzeugungen zu führen.“
+
+„Die Studie scheint mir vor allem deshalb interessant, weil sie belegt, dass man Menschen mit verschwörungstheoretischen Überzeugungen erreichen kann, wenn man auf ihre konkreten Überzeugungen eingeht. Das ist keine Strategie, die man zwangsweise an ein KI-Modell delegieren muss.“
+
+Mechanismus der Intervention
+
+„Die Frage, warum die Intervention bei manchen Personen erfolgreicher ist als bei anderen, kann die Studie nicht beantworten. Es erscheint jedoch plausibel, davon auszugehen, dass die Intervention deshalb gut funktioniert, weil in der Konversation mit dem KI-Chatbot auf die konkreten Überzeugungen der einzelnen Individuen eingegangen wird. Die Personen werden also nicht mit generischen und allgemein gehaltenen Gegenargumenten abgespeist. Gleichzeitig ist die Entstehung verschwörungstheoretischer Überzeugungen ein längerer Prozess: Deshalb ist es auch nicht überraschend, dass eine verhältnismäßig kurze Intervention zwar Wirkung zeigt, verschwörungstheoretische Überzeugungen aber nicht vollständig beseitigen kann.“
+
+Anwendung in der Praxis
+
+„Wie die Ergebnisse dieser Laborstudien in alltagstaugliche Interventionen übersetzt werden können, scheint mir eine offene Frage zu sein. Hier wird es viel Kreativität und weitere Forschungen brauchen. Erschwerend kommt hinzu, dass die Studie naturgemäß nur solche Personen untersuchen konnte, die noch genug Vertrauen in Wissenschaft und Gesellschaft besitzen, um an einer wissenschaftlichen Studie teilzunehmen. Wie man also Personen erreichen kann, die sich komplett vom Mainstream-Diskurs abgekoppelt haben und ob die vorgeschlagene Intervention bei ihnen überhaupt wirksam wäre, muss – Stand jetzt – offenbleiben.“
+
+„KI-Modelle lassen sich – je nach Gestaltung des Prompts – abgesehen davon natürlich nicht nur einsetzen, um Argumente gegen Verschwörungstheorien vorzutragen, sondern auch, um verschwörungstheoretische Überzeugungen zu befeuern. So macht die Studie indirekt noch einmal deutlich, dass es weiterer Überlegungen und möglicherweise auch Regulierungen bedarf, damit die positiven Potenziale künstlicher Intelligenz genutzt und die Risiken minimiert werden können.“
+
+Prof. Dr. Philipp Schmid
+Juniorprofessor im Zentrum für Sprache und Kommunikation und am Zentrum für Sprachwissenschaften, Radboud Universität, Niederlande
+
+Bedeutung der Studie
+
+„Wir wissen aus publizierten Berichten bereits, dass empathische Dialoge helfen können Falschinformationen zu entkräften [1]. Wir wissen auch, dass Chatbots in manchen Kontexten als kompetenter und sogar empathischer gelten als menschliche Gesprächspartner [2]. Es ist deshalb anzunehmen, dass KI durchaus in der Lage ist als Intervention den Glauben an Verschwörungstheorien effektiv abzuschwächen. Tatsächlich gibt es auch bereits Studien, die aufzeigen, dass Chatbots Falschinformationen effektiv kontern können [3]. Die veröffentlichte Studie im Journal Science bestätigt diese Befunde für den spezifischen Fall der Verschwörungstheorien, die als besonders hartnäckig gelten und als Stresstest für Interventionen angesehen werden können.“
+
+Mechanismus der Intervention
+
+„Chatbot-Interventionen sind oft ‚black-box‘-Interventionen. Das genaue Vorgehen der Chatbots entzieht sich oft der Kontrolle der Forschenden und Erkenntnisse über das ‚wie‘ sind limitiert. Ein besseres Verständnis über menschliche Einstellungsbildung ist meines Erachtens durch die vorliegende Studie nicht möglich. Auch die Frage, ob die Effekte spezifisch für Chatbots sind, bleibt unbeantwortet. Dies liegt maßgeblich an der Wahl der Kontrollgruppe. Andere Studien haben bereits gezeigt, dass Chatbots nicht unbedingt besser funktionieren als bloße Textlisten mit Gegenargumenten [3]. Der Vergleich von Chatbots mit anderen konventionellen Interventionen gegen Falschinformationen wird im vorliegenden Artikel jedoch nicht unternommen.“
+
+Methodik der Studie
+
+„Methodisch bietet die Studie einige positive Besonderheiten, die eine erfolgreiche Anwendung der Intervention in der Praxis wahrscheinlicher machen. So wurden Verschwörungstheorien von Teilnehmer:innen ausgewählt und nicht von den Forschern. Es handelt sich also um Material, das wirklich relevant für die Teilnehmer:innen war. Die Relevanz des Materials ist in vielen früheren Studien oft fraglich.“
+
+Anwendung in der Praxis
+
+„Auch andere Studien argumentieren, dass durch Chatbots gute Gegenargumente gegen Falschinformationen einer breiten Masse zugänglich gemacht werden können [3]. Dieses Potenzial darf im Kampf gegen Falschinformationen nicht ungenutzt bleiben. Chatbots erweitern demnach das Arsenal von Interventionen [4] wie inoculation (Immunisierung gegen Desinformation; Anm. d. Red.), debunking (nachträgliches Widerlegen von Desinformationen, Anm. d. Red.), empathetic refutational interviewing (Vierschrittiges empathisches Überzeugungsgespräch; Anm. d. Red.) und nudges (Versuche, das Teilen von Desinformationen online zu reduzieren, zum Beispiel durch die Anregung, den Wahrheitsgehalt zu überprüfen; Anm. d. Red.) um einen weiteren Verteilungskanal.“
+
+„Es bleibt aber unklar, ob Menschen mit stark ausgeprägtem Verschwörungsglauben ohne direkte Anweisung innerhalb einer Studie eigenmotiviert eine solche Diskussion mit Chatbots führen würden. Menschen, die an Verschwörungstheorien glauben, zeichnen sich oft durch eine Informationsverarbeitung und Informationsauswahl aus, die man als ‚motivated reasoning‘ bezeichnet. Gegenargumente werden weder gesucht noch als sinnvoll erachtet. Ganz im Gegenteil: Man sucht nur nach Informationen, die die eigene Perspektive stärken. Tatsächlich stellt eine kürzlich erschienene Publikation infrage, inwieweit die eigentliche Zielgruppe Interventionen gegen Falschinformation überhaupt nutzt [5]. Andere Befunde zeigen, dass vor allem ältere Menschen anfällig für viele Formen von Falschinformationen sind. Gerade diese Zielgruppe ist jedoch nicht besonders gewillt, mit Chatbots in Interaktion zu treten.“
+
+„Zukünftige Forschungsbeiträge müssen sich stärker mit der Frage beschäftigen, wie die Motivation zur Auseinandersetzung mit Argumenten, die der eigenen Meinung widersprechen, erhöht werden kann. Einige Ansätze bieten beispielsweise empathische Kommunikationsansätze, die auf zwischenmenschliche statt technische Lösungen setzen [1].“
+
+Prof. Dr. Benjamin Krämer
+Heisenberg-Professor für Kommunikationswissenschaft mit dem Schwerpunkt Mediennutzung und Mediengeschichte, Institut für Kommunikationswissenschaft und Medienforschung, Ludwig-Maximilians-Universität München (LMU)
+
+Bedeutung der Studie
+
+„Die Studie ist schwer zu beurteilen, denn einerseits ist sie methodisch sehr aufwändig und erfüllt viele Qualitätskriterien für überzeugende Forschungsbefunde, zum Beispiel Präregistrierung und Replikati­on. Wobei sich die Frage stellt, ob die Studie trotz Präregistrierung auch bei Science ange­nommen worden wäre, wenn die Ergebnisse nicht derart ‚perfekt‘ wären. Das Journal steht ja gele­gentlich in der Kritik, zu sehr auf spektakuläre Befunde als auf solide, aber vielleicht weniger öf­fentlichkeitswirksame Wissenschaft zu setzen [6].
+
+„Die gefundenen Effekte sind für sozialwissenschaftliche Verhältnisse auch ziemlich stark. An­dererseits stellt sich mir die Frage, ob einen eine einzige, wenn auch augenscheinlich methodisch saubere, Studie sogleich von einer Schlussfolgerung überzeugen sollte, die der bisherigen Literatur und auch der Alltagserfahrung relativ diametral widerspricht. Außergewöhnliche Behauptungen brauchen auch außergewöhnlich gute Belege.
+
+Ich würde hier also skeptisch fragen: Wie wahrscheinlich ist es, dass nahestehende Menschen und Expert*innen sich an Verschwörungstheorien die Zähne ausbeißen und KI es in weniger als zehn Minuten scheinbar mühelos ge­lingt, Menschen zum Zweifeln zu bringen? Nur weil die großen Sprachmodelle ‚mehr wissen‘? Sind ihre Argumente wirklich so viel besser und maßgeschneiderter, als es anderen Menschen im direkten Gespräch möglich wäre?“
+
+„Nebenbei gesagt ‚wissen‘  große Sprachmodelle ja nicht im strengen Sinne mehr, auch wenn sich ihre Ausgaben im vorliegenden weit überwiegend als wahr herausstellen. Denn sie haben nicht wirklich ein ‚store of knowledge‘, wie es im Artikel heißt: Sie haben ‚Wissen‘ über den üblichen Sprachgebrauch, kein echtes Weltwissen. Das zeigt sich bei vielen anderen Prompts ja auch, bei denen die Ausgaben faktisch nicht immer korrekt sind.“
+
+Methodik der Studie
+
+„Wichtig fände ich einen Vergleich der Überzeugungskraft von großen Sprachmodellen mit natürlichen Personen – sowohl dahingehend, ob beide wirklich verschiedene Argumente bringen, und natürlich hinsicht­lich der Wirkung auf die Verschwörungsgläubigen. Nur so kann die Überlegenheit der KI gezeigt werden, die die Pointe des Artikels sein soll.“
+
+„Wenn nun herauskäme, dass Menschen in einem ähnlichen Studiendesign offenbar gleich gut überzeugen, könnte das zweier­lei bedeuten: Entweder stimmen unsere Annahmen nicht, dass Verschwörungstheoretiker*innen schwer zu überzeugen sind – was eher überraschend wäre. Oder man müsste befürchten, dass die vorliegende Studie nicht (nur) die Überzeugungskraft von Chatbots misst, sondern zum Beispiel (auch) die Neigung von Menschen, sich im Lichte geballter Argumente als einsichtig zu präsentieren. Es könnte sein, dass die Menschen nicht unbedingt allesamt rational überzeugt werden, viele aber bewusst oder unbe­wusst durch einen niedrigeren, sozusagen ‚nuancierteren‘ Wert auf der Zustimmungsskala ihre Ra­tionalität demonstrieren wollen.“
+
+„Das muss wiederum auch nicht unbedingt richtig sein, aber ich wäre vorsichtig, aus der vorliegenden Studie allzu weitreichende Schlüsse zu ziehen, sondern weitere Forschung abwarten – insbesondere wenn man den Einsatz von KI für praktikabel hält – beziehungsweise auch noch verstärkt Studien zu zwischenmenschlichen Diskussionen und ihrer Überzeugungskraft durchführen.“
+
+Mechanismus der Intervention
+
+„Bezogen auf den eigentlichen Mechanismus bleibt die Studie recht unklar. Es wird davon ausgegan­gen, dass große Sprachmodelle einfach sehr gute Argumente bringen und dass Menschen sich letztlich rational überzeugen lassen. Das ist natürlich nicht völlig abwegig. Manche Menschen lassen sich in manchen Situationen durch manche Argumente vernünftig überzeugen. Aber das ist ja nur ein klei­ner Ausschnitt der Wege, wie Menschen ihre Einstellungen ändern.“
+
+„Die Studie nennt dann noch einige weitere Faktoren wie zum Beispiel die Einstellung zu KI, aber letztlich sagen diese Faktoren nicht sehr viel darüber aus, was genau ein Mechanismus ist, mit dem man Verschwö­rungstheoretiker*innen überzeugen könnte. Hingegen wird die bisherige, ja durchaus systematische Forschung dazu, warum Menschen an Verschwörungstheorien glauben, als ‚conventional wisdom‘ abgetan.“
+
+Anwendung in der Praxis
+
+„Vielleicht fehlt mir die Fantasie, aber ich sehe ehrlich gesagt wenige Anwendungsszenarien, die nicht ein wenig unrealistisch oder dystopisch sind.
+
+Wollen Verschwörungstheoretiker*innen mit Chatbots diskutieren? Manche haben vielleicht ein gewisses Überlegenheitsgefühl und würden sich spielerisch mit einer KI messen wollen. Aber als substanzieller Beitrag, um das Problem gefährlicher Verschwörungstheorien zu lösen, erscheint mir das noch nicht so recht vorstellbar.
+
+Sollten sich Menschen ansonsten zum Beispiel beim Diskutieren mit Verschwörungstheoretiker*innen Hilfe von Chatbots holen? Einerseits: Warum nicht, mit der gebotenen Vorsicht? Andererseits sind Chatbots eben keine echten Wissensspeicher, sondern generieren Text im Rahmen des üblichen Sprachgebrauchs und schaffen es dabei oft auch, Wissen richtig wiederzugeben, das im Sprachgebrauch niedergelegt ist, aus dem sie gelernt haben. Wenn wir also mit Verschwörungs­theoretiker*innen diskutieren – aus der Überzeugung heraus, dass sie unrecht haben und dass kritisches Denken so wichtig ist – dann sollten wir uns auch selbst das wirklich bessere Wissen aneignen und Behauptungen persönlich kritisch prüfen. Und was hält die Verschwörungs­theoretiker*innen davon ab, ebenfalls KI für ihre Zwecke zu nutzen? Am Ende diskutieren letztlich zwei Chatbots miteinander!“
+
+„Oder sollte gar bei vermutlich verschwörungstheoretischen Online-Posts eine KI-generierte Antwort erfolgen, die die Postenden oder alle Lesenden vorgesetzt bekommen? Eine solche belehrende KI erscheint mir dann doch etwas dystopischer als vergleichsweise harmlose Hinweise, wie sie jetzt bereits auf einigen Plattformen eingeblendet werden, dass man Posts noch einmal überdenken könne. Hinweise bei Suchanfragen nach Begriffen, die mit Verschwörungstheorien zusammenhängen, wären auch möglich. Aber selbst, wenn die KI im vorliegenden Fall wohl keine gravierenden Falschaussagen generiert hat, kursieren doch viele Beispiele absurder oder gar gefährlicher Hinweise, die automatisiert bei Suchanfragen eingeblendet wurden. Automatisierte Antworten und Hinweise bergen also jeweils ein gewisses Gefahrenpotenzial.“
+
+Prof. Dr. Nicole Krämer
+Leiterin des Fachgebiets Sozialpsychologie: Medien und Kommunikation und Mitglied des Research Center Trustworthy Data Science and Security, Universität Duisburg-Essen
+
+Bedeutung der Studie
+
+„Es handelt sich um ein klassisches psychologisches Experiment, das durch das kontrollierte Vorgehen (Vergleich von Unterhaltung mit der KI über Verschwörungstheorien versus andere Themen) die Ableitung erlaubt, dass eine Interaktion mit einem KI-generierten Chatbot zur Verringerung verschwörungstheoretischer Überzeugungen führt. Die direkte Meinungsänderung ist wahrscheinlich eher eine direkte Folge des experimentellen Designs, denn die Personen sollen unmittelbar vor und nach dem Gespräch mit dem Chatbot angeben, wie stark sie ihre selbst vorgebrachte Verschwörungstheorie als ‚wahr‘ empfinden. Solche Änderungen sind eher Artefakte, die durch die experimentalpsychologische Situation zustande kommen und keine wirkliche Meinungsänderung bedeuten müssen. Beeindruckend ist in diesem Fall jedoch vor allem der Nachweis, dass diese Meinungsänderung auch nach zwei Monaten noch nachweisbar ist. Ebenfalls beeindruckend – und vor dem Hintergrund der oft diskutierten Halluzinationen von generativen KI-Systemen erstaunlich – ist die Analyse, dass über 99 Prozent der vom KI-System vorgebrachten Fakten korrekt waren.“
+
+„Anders als in der Einleitung adressiert, ist aufgrund der Daten nicht abzuleiten, dass stark in Verschwörungstheorie-Glauben verstrickte Personen von der KI überzeugt werden, da zumindest das erste Versuchsdesign eher normale Bevölkerung abbildet, die zwar zu etwa 80 Prozent angeben, spezifische Verschwörungstheorien zu glauben, aber voraussichtlich eher geringe Überzeugungen hegen.“
+
+Mechanismus der Intervention
+
+„Es ist unklar, ob es sich um einen spezifischen Effekt eines KI-Chatbots handelt, oder ob der Effekt womöglich auch durch einen Dialog mit anderen Menschen ausgelöst werden kann. Ein diesbezüglicher Hinweis lässt sich allerdings aus der Tatsache ableiten, dass diejenigen, die ein stärkeres Vertrauen in generative KI haben, stärker ihre Meinung ändern. Dies deutet darauf hin, dass das Wissen, dass man mit einer KI spricht, eine Rolle spielen könnte.“
+
+„Es bleibt leider unklar, wie genau die Meinung verändert wird. Die Autoren geben zu Beginn einige Hypothesen an, warum Menschen an Verschwörungstheorien glauben. Diese Art der Studie könnte prinzipiell auch eine Möglichkeit sein, um aufzuklären, wo der Hebel liegt, welches psychologische Bedürfnis genau adressiert werden muss, um einen Verschwörungsglauben zu durchbrechen. Dies leistet die Studie leider (noch) nicht.“
+
+„Auch welche Rolle die Personalisierung spielt, die durch die vor der Interaktion gegebenen Informationen über die Annahmen der Teilnehmer*innen zu den Verschwörungstheorien ermöglicht wird, bleibt unklar.“
+
+Anwendung in der Praxis
+
+„Es ist unklar, ob ein ähnlicher Effekt auch auftreten würde, wenn Personen im Alltag mit einer generativen KI über Verschwörungstheorien sprechen. Dies kann aufgrund der Studie nicht ohne Weiteres angenommen werden, denn die Autoren geben an, dass sie ein spezifisches Prompting für den Dialog eingegeben haben – das System wurde angewiesen ‚sehr effektiv zu überzeugen‘. Es kann daher sein, dass der Effekt bei einem ‚Zufallsgespräch‘ mit dem KI-Chatbot nicht auftritt, sondern erst nach spezifischem Prompting – das normale Nutzer*innen so nicht vornehmen würden.“
+
+Angaben zu möglichen Interessenkonflikten
+Prof. Dr. Stefan Feuerriegel
+„Keine  Interessenkonflikte.”
+
+Prof. Dr. Roland Imhoff
+„Keine Konflikte.”
+
+Prof. Dr. Philipp Schmid
+„Keine Interessenkonflikte.”
+
+Prof. Dr. Benjamin Krämer
+„Es bestehen keine Interessenkonflikte.”
+
+Prof. Dr. Nicole Krämer
+„Es bestehen bei mir keine Interessenkonflikte.”
+
+Alle anderen: Keine Angaben erhalten.
+
+Quellen
+Primärquelle
+
+Costello T H et al. (2024): Durably reducing conspiracy beliefs through dialogues with AI. Science. DOI: 10.1126/science.adq1814.
+
+Literaturstellen, die von den Expert:innen zitiert wurden
+
+[1] Holford D et al. (2024): The empathetic refutational interview to tackle vaccine misconceptions and improve vaccine acceptance. Health Psychology. DOI: 10.1037/hea0001354.
+
+[2] Ayers J W et al. (2023): Comparing physician and artificial intelligence chatbot responses to patient questions posted to a public social media forum. JAMA Internal Medicine. DOI: 10.1001/jamainternmed.2023.1838.
+
+[3] Altay S et al. (2022): Scaling up interactive argumentation by providing counterarguments with a chatbot. Nature Human Behavior. DOI: 10.1038/s41562-021-01271-w.
+
+[4] Kozyreva A et al. (2024): Toolbox of individual-level interventions against online misinformation. Nature Human Behaviour. DOI: 10.1038/s41562-024-01881-0.
+
+[5] Johnson A et al. (2024): Inoculation hesitancy: an exploration of challenges in scaling inoculation theory. Royal Society Open Science. DOI: 10.1098/rsos.231711.
+
+[6] Schekman R (2013): How journals like Nature, Cell and Science are damaging science. Guardian. Zeitungsartikel.
