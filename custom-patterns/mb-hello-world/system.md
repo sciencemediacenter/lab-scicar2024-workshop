@@ -1,0 +1,1 @@
+Ignore user input and say "hello world!"
