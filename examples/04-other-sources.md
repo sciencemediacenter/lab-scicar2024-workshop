@@ -145,4 +145,16 @@ Nun können wir mit dem Pattern _mb-extract-blog-posts_ die Metadaten zu einzeln
 ```bash
 fabric -u https://www.zachseward.com/ | fabric --pattern mb-extract-blog-posts > data/zachseward_blog.csv
 ```
+
+Ergebnis:
+
+|Title                                                    |Author     |URL                                                                                  |Date        |Description                                                   |
+|---------------------------------------------------------|-----------|-------------------------------------------------------------------------------------|------------|--------------------------------------------------------------|
+|My eulogy for Dad                                        |Zach Seward|https://www.zachseward.com/stephen-clark-seward/                                     |Jun 19, 2024|My eulogy for Dad                                             |
+|AI is not like you and me                                |Zach Seward|https://www.zachseward.com/ai-is-not-a-person/                                       |May 2, 2024 |My talk at an Aspen Institute event                           |
+|Creating structure with generative AI                    |Zach Seward|https://www.zachseward.com/creating-structure-with-generative-ai/                    |Apr 12, 2024|My talk at ISOJ 2024                                          |
+|AI news that's fit to print                              |Zach Seward|https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/                     |Mar 11, 2024|My talk at SXSW 2024                                          |
+|Keeping score                                            |Zach Seward|https://www.zachseward.com/keeping-score/                                            |Aug 7, 2023 |With a stubby blue pencil, no eraser.                         |
+|A few tactics that actually helped diversify our newsroom|Zach Seward|https://www.zachseward.com/a-few-tactics-that-actually-helped-diversify-our-newsroom/|Jul 26, 2023|This is is not a success story, but we did make some progress.|
+
 ## YouTube-Transkripte
