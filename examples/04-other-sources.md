@@ -158,3 +158,54 @@ Ergebnis:
 |A few tactics that actually helped diversify our newsroom|Zach Seward|https://www.zachseward.com/a-few-tactics-that-actually-helped-diversify-our-newsroom/|Jul 26, 2023|This is is not a success story, but we did make some progress.|
 
 ## YouTube-Transkripte
+
+_Fabric_ verfügt zudem über eine Integration von Funktionen, die Transkripte und Kommentare zu YouTube-Videos herunterladen.
+
+Für dieses Beispiel muss ein API-Key für YouTube im Setup von _Fabric_ eingetragen werden.
+
+Betrachten wir [dieses Video von Matthew Berman](https://www.youtube.com/watch?v=GwlRyItIopc&ab_channel=MatthewBerman): "Sam Altman Teases Orion (GPT-5), NotebookLM, Pixtral, Meta Training on Facebook Data" (17.09.2024), in dem über verschiedene Neuigkeiten aus dem Bereich der Künstlichen Intelligenz gesprochen wird.
+
+```bash
+fabric -y "https://www.youtube.com/watch?v=GwlRyItIopc&ab_channelMatthewBerman" --transcript --dry-run 
+```
+Lädt das Transkript zu dem Video herunter, verwendet es aber nicht (--dry-run) als Eingabe für ein Sprachmodell.
+
+```bash
+fabric -y "https://www.youtube.com/watch?v=GwlRyItIopc&ab_channelMatthewBerman" --comments --dry-run 
+```
+Lädt die Kommentare zu dem Video herunter, wiederum als _dry run_.
+
+Um bspw. das Transkript weiterzuverarbeiten, kann es direkt im selben Aufruf von _Fabric_ mit einem Pattern verwendet werden.
+
+Hier erzeugen wir mit dem eingebauten Pattern _create\_summary_ eine Zusammenfassung des Transkripts:
+
+```bash
+ fabric -y "https://www.youtube.com/watch?v=GwlRyItIopc&ab_channelMatthewBerman" --transcript --pattern create_summary
+ ```
+
+```markdown
+# ONE SENTENCE SUMMARY:
+Sam Altman's cryptic tweet hints at OpenAI's upcoming Orion model, while Microsoft revamps its AI co-pilot features across platforms.
+
+# MAIN POINTS:
+1. Sam Altman's tweet suggests a new AI model, possibly named Orion, coming soon.
+2. Microsoft's co-pilot product is being revamped for better AI integration in Windows.
+3. Co-pilot features include advanced functions in Excel, PowerPoint, and Outlook.
+4. Meta allegedly trained its AI on publicly posted Facebook and Instagram data.
+5. Mraw AI's new vision model, Pixol 12b, allows users to query images interactively.
+6. E11, an open-source tool, simplifies prompt engineering for AI models.
+7. Adobe announces a text-to-video model, Firefly, for commercial use.
+8. Clara CEO is shutting down major SaaS providers, opting for AI-driven solutions.
+9. Google Labs releases Notebook LM, converting documents into audio discussions.
+10. The Godmother of AI launches World Labs, focusing on spatial AI development.
+
+# TAKEAWAYS:
+1. Expect OpenAI's Orion model release based on Altman's cryptic hints.
+2. Enhanced AI features in Microsoft products aim to improve user experience.
+3. Publicly available data on social media is being used for AI training.
+4. New tools like E11 make prompt engineering more accessible and efficient.
+5. The AI landscape is evolving, with companies exploring diverse applications and models.
+```
+Diese Zusammenfassung ist sicherlich nicht perfekt, aber sie ist hilfreich, um einen schnellen Überblick zu bekommmen und zu entscheiden, in welche Videos ich einen genaueren Blick werfen möchte. 
+
+In diesem Sinne ermöglichet generative KI eine ganz neue Skalierung von Newsgathering- und Monitoring-Werkzeugen. (Siehe dazu auch [AI and News: What's next](https://generative-ai-newsroom.com/ai-and-news-whats-next-154fbeb6a646) von David Caswell)
