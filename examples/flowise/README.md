@@ -8,7 +8,7 @@
 
 Mit den [Konfigurationsdateien aus dem Flowise-Repo](https://github.com/FlowiseAI/Flowise/tree/main/docker) lässt sich schnell eine lokale Instanz von FlowiseAI starten. Die nötigen Dateien (außer .env) befinden sich bereits in diesem Verzeichnis. 
 
-Ich habe dort an den Standardwerten bis auf die Portnummer (3000 => 3333) nichts verändert.
+Ich habe dort an den Standardwerten bis auf die Portnummer (3000 => 3333) nichts verändert. Außerdem habe ich noch eine Environemnt-Variable für den OPENAI_API_KEY hinzugefügt.
 
 ```bash
 docker-compose up
