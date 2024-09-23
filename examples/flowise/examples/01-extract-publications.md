@@ -33,13 +33,6 @@ curl http://localhost:3333/api/v1/prediction/7b76d958-ccdc-472d-aa51-b4f0f8c7f65
 ### Wie bekommt man Daten dynamisch an die API?
 
 ```bash
-curl http://localhost:3333/api/v1/prediction/7b76d958-ccdc-472d-aa51-b4f0f8c7f651 \
-     -X POST \
-     -d '{"question": "Do!", "overrideConfig": {"text": "`cat /dev/stdin`"}}' \
-     -H "Content-Type: application/json"
-```
-
-```bash
 cat data/smc_angebot.txt | curl http://localhost:3333/api/v1/prediction/7b76d958-ccdc-472d-aa51-b4f0f8c7f651 \
      -X POST \
      -H "Content-Type: application/json" \
@@ -66,6 +59,7 @@ FlowiseAI liefert das Ergebnis, das uns interessiert unter dem Schlüssel "json"
 ```bash
 cat data/smc_angebot.txt | sh examples/flowise/extract_publications.sh  | jq '.json'
 ```
+Et voilà: wir rufen mit unseren Textdaten einen _entkoppelten_ Flow auf und können die Ergebnisse beliebig weiterverarbeiten.
 
 ```json
 [
