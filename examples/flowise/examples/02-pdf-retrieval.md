@@ -1,8 +1,26 @@
 # Daten aus PDF auslesen
 
+Die Extraktion von Informationen aus PDF-Dateien ist ein häufiger Anwendungsfall in der Aufbereitung von Daten für die Analyse. Die LangChain-Integration in FlowiseAI stellt unterschiedliche _document loader_ bereit, so auch einen für PDF-Dateien.
+
 ## Flow
 
+![PDF Retrieval Flow](img/pdf-retrieval-flow.png)
+
+Der Flow ist etwas komplizierter, weil die PDF-Datei einer gewissen Vorverarbeitung bedarf.
+
+Die PDF-Datei wird geladen, in eine Textform überführt und in Chunks aufgeteilt. Für diese Chunks wird mit _text-embedding-3-small_-Modell von OpenAI ein Embedding berechnet. Embeddings und Textinhalte der Chunks werden in einen _In-Memory Vector Store_ geladen.
+
+Dieser _Vector Store_ kann von einer _Retrieval QA Chain_ über einen _Vector Store Retriever_ angefragt werden, der für eine Query (bzw. deren Embedding) passende Chunks der PDF-Datei (über deren Embeddings) findet. Ein mit der _Retreival QA Chain_ verbundenes Sprachmodell dafür zu zuständig, anhand der ermittelten Chunks eine Antwort auf die gestellte Frage zu generieren.
+
+Als Testaufbau habe ich eine Rechnung der DB hochgeladen. Im Flowise-Chat kann ich nun nach strukturierten Informationen zur Rechnung (Abfahrts- und Zielort, Preis) fragen.
+
+![PDF Retrieval Chat](img/pdf-retrieval-flow-chat.png)
+
 ## Programmatischer Aufruf
+
+Interessant (und etwas herausfordernd) ist wieder die Frage, wie wir den Flow "PDF Retrieval" für beliebige DB-Rechnungen aufrufen können.
+
+Eine bestimmte Datei lässt sich wie folgt an cURL und damit an die Prediction-API für den Flow übergeben:
 
 ```bash
 curl http://localhost:3333/api/v1/prediction/9c527c0e-d6eb-4cf8-a7aa-a5a7a34a0b44 \
@@ -18,7 +36,7 @@ Gebe ein JSON-Objekt mit folgender Struktur zurück: {
      -H "Content-Type: multipart/form-data"
 ```
 
-Kapselung als Shell-Skript mit Parameter für die PDF-Datei und Formatierung des Ergebnisses mit _jq_.
+Aus diesem konkreten Beispiel lässt sich leicht ein Shell-Skript schreiben, das den Pfad zur zu benutzenden PDF-Datei als Parameter übergeben bekommt. (Die Nachbearbeitung des Ergebnisses mit _jq_ können wir auch gleich in dieses Skript einbauen.)
 
 ```bash
 if [ "$#" -ne 1 ]; then
@@ -41,7 +59,7 @@ Gebe ein JSON-Objekt mit folgender Struktur zurück: {
      -H "Content-Type: multipart/form-data" | jq ".text" | jq -r
 ```
 
-Beispiel: ```sh examples/flowise/scrape_db_rechnung.sh ~/Downloads/DB_Rechnung_121649591420.pdf ```
+Beispiel: ```sh examples/flowise/scripts/scrape_db_rechnung.sh ~/Downloads/DB_Rechnung_121649591420.pdf ```
 
 ```json
 {
