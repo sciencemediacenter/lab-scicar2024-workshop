@@ -22,7 +22,7 @@ user_info = client.chat.completions.create(
     messages=[{"role": "user", "content": "John Doe is 30 years old."}],
 )
 
-print(user_info.name)
+print(user_info.name, type(user_info.name))
 #> John Doe
-print(user_info.age)
+print(user_info.age, type(user_info.age))
 #> 30
