@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.sciencemediacenter.de/static/img/logos/smc/smc-logo-typo-bw-big.png" width="300"/>
+
+  <div id="badges" style="padding-top: 20px">
+    <a href="https://www.sciencemediacenter.de">
+      <img src="https://img.shields.io/badge/Website-orange?style=plastic" alt="Website Science Media Center"/>
+    </a>
+    <a href="https://twitter.com/smc_germany_lab">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter SMC Lab"/>
+    </a>
+  </div>
+</div>
+
 # Vom Text zur Analyse: Large Language Models als Werkzeug für datenjournalistische Anwendungen 
 
 Zach Seward, der neue Director of AI Initiatives der NYT, hat jüngst darauf hingewiesen, dass die verbreitete Annahme, Tools wie ChatGPT seien hauptsächlich für das Verfassen von Texten gedacht, das wahre Potenzial von Large Language Models (LLM) unterschätzt. Die eigentliche Stärke von LLM liege nicht im Verfassen von Texten, sondern darin, aus unstrukturierten Texten strukturierte Daten zu gewinnen. Im komplexen Alltag von Journalist:innen erwiesen sich LLMs als nützliche Werkzeuge, um Texte zusammenzufassen, Daten zu verstehen und Informationen strukturiert zu erfassen.
