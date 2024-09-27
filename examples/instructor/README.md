@@ -1,5 +1,7 @@
 # Beispiele für Instructor
 
+Environment-Datei .env mit OPENAI_API_KEY=xxxxx erstellen.
+
 ```bash
 docker-compose up
 ```
