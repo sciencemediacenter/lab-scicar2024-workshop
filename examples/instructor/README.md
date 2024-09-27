@@ -9,7 +9,7 @@ docker-compose up
 Terminal mit Docker-Container verbinden:
 
 ```bash
-docker exec -it {container_id | container_name} bash
+docker exec -it instructor-example bash
 ```
 
 Beispiele mit Python ausführen:

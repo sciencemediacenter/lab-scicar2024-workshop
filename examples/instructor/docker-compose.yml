@@ -1,6 +1,6 @@
 version: '3'
 services:
-  data-reports-api:
+  scicar-workshop:
     container_name: instructor-example
     build:
       context: .
